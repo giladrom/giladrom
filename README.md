@@ -1,7 +1,7 @@
 I’m Gilad - A Senior Software Engineer and Startup Founder with 10+ years of experience in creating, deploying and maintaining enterprise SaaS and consumer products. Proficient with C & HTML/JavaScript/Typscript, networking, System Architecture, AWS/GCP and Unix/Linux. Extremely passionate about reliability, optimization and bringing new ideas to life.
 
 Bio:
-- Got my start by figuring out how to install FreeBSD 2.2 on my 486DX2 using 3.5” floppies
+- Got my start by figuring out how to install FreeBSD 2.2 on my 486DX2
 - Joined a small telco company, built an embedded Linux-MIPS DSL access multiplexer to provide broadband access to hotel rooms
 - Became one of the first employees at Fabrix systems - built distributed video storage/streaming solutions, company got acquired for 100M
 - Ended up being a Solutions Architect for Ericsson, traveled the world, and sold software  
