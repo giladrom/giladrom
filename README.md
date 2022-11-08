@@ -1,4 +1,4 @@
-I’m Gilad -  a self-taught software engineer (and startup founder).
+I’m Gilad - A Senior Software Engineer and Startup Founder with 10+ years of experience in creating, deploying and maintaining enterprise SaaS and consumer products. Proficient with C & HTML/JavaScript/Typscript, networking, System Architecture, AWS/GCP and Unix/Linux. Extremely passionate about reliability, optimization and bringing new ideas to life.
 
 Bio:
 - Got my start by figuring out how to install FreeBSD 2.2 on my 486DX2 using 3.5” floppies
@@ -17,9 +17,10 @@ Preferences:
 - Endless fascination with the latest frameworks, APIs and technologies
 - Have been through multiple startups and know what NOT to do
 
-You can reach me at gilad.rom@gmail.com.
+You can reach me at gilad.rom@gmail.com, [Twitter](twitter.com/giladrom), or [LinkedIn](https://www.linkedin.com/in/giladrom/).
 
 <!---
 giladrom/giladrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[PDF Resume](https://github.com/giladrom/giladrom/files/9958089/Gilad.Rom.Resume.pdf)
