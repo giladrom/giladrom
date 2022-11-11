@@ -6,6 +6,15 @@ I’m Gilad - A Senior Software Engineer and Startup Founder with 10+ years of e
 - Take pride in ownership and going 0-1, iterating and making things happen
 - Have been through multiple startups and know what NOT to do
 
+## Notable things I've built
+- [Huan](https://www.notion.so/gethuan/Huan-Memo-1e6ee1d17d72440cb98101fbef3badda)
+- [Fabrix Systems](https://www.nexttv.com/news/ericsson-folds-fabrix-systems-383793)
+
+## Press
+- [Nordic Semi](https://www.nordicsemi.com/News/2020/05/Huan-Tag-pet-wearable-helps-owners-keep-track-of-pets-via-crowd-location-system)
+- [Hub 101](https://www.hub101.org/post/gilad-rom-founder-of-huan)
+- [Argos & Artemis](https://argosandartemis.com/metaverse-web3-nft-crypto-dogs/)
+
 ## Skills
 JavaScript • Embedded Systems • TypeScript • HTML/CSS • Systems architecture • Node.js • Linux • Hardware
 
