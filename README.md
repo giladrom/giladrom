@@ -20,7 +20,7 @@ JavaScript • Embedded Systems • TypeScript • HTML/CSS • Systems architec
 
 ## Resume ([PDF](https://github.com/giladrom/giladrom/files/9958089/Gilad.Rom.Resume.pdf))
 
-### <Stealth> (Founding Engineer)
+### (Stealth) (Founding Engineer)
 #### Technologies: Typescript • Prisma • tRPC • React • PostgreSQL
 
 
