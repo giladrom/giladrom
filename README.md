@@ -19,6 +19,11 @@ I’m Gilad - A Senior Software Engineer and Startup Founder with 10+ years of e
 JavaScript • Embedded Systems • TypeScript • HTML/CSS • Systems architecture • Node.js • Linux • Hardware
 
 ## Resume ([PDF](https://github.com/giladrom/giladrom/files/9958089/Gilad.Rom.Resume.pdf))
+
+### <Stealth> (Founding Engineer)
+#### Technologies: Typescript • Prisma • tRPC • React • PostgreSQL
+
+
 ### Innerwell (Head Of Engineering)
 
 #### Technologies: JavaScript • AWS (Amazon Web Services) • Google Cloud Platform • RESTful Web Services
