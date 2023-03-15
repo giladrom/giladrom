@@ -1,5 +1,5 @@
 # Summary 
-I’m Gilad - A Senior Software Engineer and Startup Founder with 10+ years of experience in creating, deploying and maintaining enterprise SaaS and consumer products. Proficient with C & HTML/JavaScript/Typscript, networking, System Architecture, AWS/GCP and Unix/Linux. Extremely passionate about reliability, optimization, cool hardware, and bringing new ideas to life.
+I’m Gilad - A Senior Software Engineer and Startup Founder with 10+ years of experience in creating, deploying and maintaining enterprise SaaS and consumer products. Proficient with C & HTML/JavaScript/TypeScript, networking, System Architecture, AWS/GCP and Unix/Linux. Extremely passionate about reliability, optimization, cool hardware, and bringing new ideas to life.
 
 - Have been part of multiple teams, from the early days to the acquisition and beyond
 - Thrive under pressure, and have done so multiple times (and have the stories to tell)
@@ -20,8 +20,8 @@ JavaScript • Embedded Systems • TypeScript • HTML/CSS • Systems architec
 
 ## Resume ([PDF](https://github.com/giladrom/giladrom/files/9958089/Gilad.Rom.Resume.pdf))
 
-### (Stealth) (Founding Engineer)
-#### Technologies: Typescript • Prisma • tRPC • React • PostgreSQL
+### (Bottleneck Labs) (Founding Engineer)
+#### Technologies: TypeScript • Tailwind • Prisma • tRPC • React • PostgreSQL
 
 
 ### Innerwell (Head Of Engineering)
