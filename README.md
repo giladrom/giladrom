@@ -1,11 +1,10 @@
 # Summary 
-I’m Gilad - A Senior Software Engineer and Startup Founder with 10+ years of experience in creating, deploying and maintaining enterprise SaaS and consumer products. Proficient with C & HTML/JavaScript/TypeScript, networking, System Architecture, AWS/GCP and Unix/Linux. Extremely passionate about reliability, optimization, cool hardware, and bringing new ideas to life.
+I’m Gilad - A Senior Software Engineer and Startup Founder with over 15 years of experience in creating, deploying and maintaining enterprise SaaS and consumer products. Proficient with C & HTML/JavaScript/TypeScript, networking, System Architecture, AWS/GCP and Unix/Linux. Extremely passionate about reliability, optimization, cool hardware, and bringing new ideas to life.
 
 - Have been part of multiple teams, from the early days to the acquisition and beyond
-- Thrive under pressure, and have done so multiple times (and have the stories to tell)
 - Take pride in ownership and going 0-1, iterating and making things happen
-- Have been through multiple startups and know what NOT to do
-
+- Self starter, extremely focused and able to quickly bring prototypes to life
+- 
 ## Notable things I've built
 - [Huan](https://www.notion.so/gethuan/Huan-Memo-1e6ee1d17d72440cb98101fbef3badda)
 - [Fabrix Systems](https://www.nexttv.com/news/ericsson-folds-fabrix-systems-383793)
