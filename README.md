@@ -15,7 +15,7 @@ I’m Gilad - A Senior Software Engineer and Startup Founder with over 15 years 
 - [Argos & Artemis](https://argosandartemis.com/metaverse-web3-nft-crypto-dogs/)
 
 ## Skills
-JavaScript • Embedded Systems • TypeScript • HTML/CSS • Systems architecture • Node.js • Linux • Hardware
+JavaScript • Embedded Systems • TypeScript • HTML/CSS • Systems architecture • Node.js • OSS (Linux/BSD) • Hardware
 
 ## Resume ([PDF](https://github.com/giladrom/giladrom/files/9958089/Gilad.Rom.Resume.pdf))
 
