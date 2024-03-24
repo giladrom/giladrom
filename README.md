@@ -22,6 +22,7 @@ JavaScript • Embedded Systems • TypeScript • HTML/CSS • Systems architec
 ### Bottleneck Labs (Founding Engineer)
 #### Technologies: TypeScript • Tailwind • Prisma • tRPC • React • PostgreSQL
 
+Bottleneck helps CPG brands and manufacturers manage their supply chain, forecast sales, track inventory, schedule production and collaborate internally and externally and so much more.
 
 ### Innerwell (Head Of Engineering)
 
