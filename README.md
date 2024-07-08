@@ -1,5 +1,5 @@
 # Summary 
-I’m Gilad - A Senior Software Engineer and Startup Founder with over 15 years of experience in creating, deploying and maintaining enterprise SaaS and consumer products. Proficient with C & HTML/JavaScript/TypeScript, networking, System Architecture, AWS/GCP and Unix/Linux. Extremely passionate about reliability, optimization, cool hardware, and bringing new ideas to life.
+I’m Gilad - A Senior Software Engineer and Startup Founder with over 15 years of experience in creating, deploying and maintaining enterprise SaaS and consumer products. Proficient in C & HTML/JavaScript/TypeScript, networking, System Architecture, AWS/GCP, SQL, and Unix/Linux. Extremely passionate about reliability, optimization, cool hardware, and bringing new ideas to life.
 
 - Have been part of multiple teams, from the early days to the acquisition and beyond
 - Take pride in ownership and going 0-1, iterating and making things happen
@@ -8,6 +8,7 @@ I’m Gilad - A Senior Software Engineer and Startup Founder with over 15 years 
 ## Notable things I've built
 - [Huan](https://www.notion.so/gethuan/Huan-Memo-1e6ee1d17d72440cb98101fbef3badda)
 - [Fabrix Systems](https://www.nexttv.com/news/ericsson-folds-fabrix-systems-383793)
+- [Bottleneck Labs](https://bottleneck.com/)
 
 ## Press
 - [Nordic Semi](https://www.nordicsemi.com/News/2020/05/Huan-Tag-pet-wearable-helps-owners-keep-track-of-pets-via-crowd-location-system)
@@ -15,16 +16,16 @@ I’m Gilad - A Senior Software Engineer and Startup Founder with over 15 years 
 - [Argos & Artemis](https://argosandartemis.com/metaverse-web3-nft-crypto-dogs/)
 
 ## Skills
-JavaScript • Embedded Systems • TypeScript • HTML/CSS • Systems architecture • Node.js • OSS (Linux/BSD) • Hardware
+Fullstack (JavaScript/Typescript) • Embedded Systems • SQL (Postgres/MySQL/Prisma) • HTML/CSS • Systems architecture • Node.js • OSS (Linux/BSD) • Hardware
 
 ## Resume ([PDF](https://github.com/giladrom/giladrom/files/9958089/Gilad.Rom.Resume.pdf))
 
-### Bottleneck Labs (Founding Engineer)
-#### Technologies: TypeScript • Tailwind • Prisma • tRPC • React • PostgreSQL
+### Bottleneck Labs (Founding Engineer, Dec 2022 - current)
+#### Technologies: NextJS/NodeJS • TypeScript • Tailwind • Prisma • tRPC • React • PostgreSQL
 
 Bottleneck helps CPG brands and manufacturers manage their supply chain, forecast sales, track inventory, schedule production and collaborate internally and externally and so much more.
 
-### Innerwell (Head Of Engineering)
+### Innerwell (Head Of Engineering, Mar 2022 - Nov 2022)
 
 #### Technologies: JavaScript • AWS (Amazon Web Services) • Google Cloud Platform • RESTful Web Services
 
@@ -34,7 +35,7 @@ Bottleneck helps CPG brands and manufacturers manage their supply chain, forecas
 - Implemented secure signing features to maintain HIPAA compliance
 - Assisting and guiding the Development and Ops teams
 
-### Huan (Founder)
+### Huan (Founder, Mar 2018 - Dec 2023)
 
 #### Technologies: Node.js • Firebase • iOS • Android • TypeScript
 - Built a network of over 18,000 users nationwide and generated over $500k in revenue in 2021
@@ -44,7 +45,7 @@ Bottleneck helps CPG brands and manufacturers manage their supply chain, forecas
 and various integrations (Twilio, Sendgrid, Stripe).
 - Built a DTC/B2C frontend using WordPress and Shopify
 
-### Ericsson (Solutions Architect)
+### Ericsson (Solutions Architect, Oct 2014 - Aug 2017)
 
 #### Technologies: Linux • Saas (software As A Service) • Shell scripts • Automation • Testing
 - Worked as part of several multinational teams in order to develop, customize and deploy large scale
@@ -53,7 +54,7 @@ OTT/nDVR/CDN solutions for major Tier-1 MSOs worldwide (Asia, Oceania, North/Sou
 - System sizing and architecture for complete end-to-end solutions (from content ingestion to end customer delivery)
 - Integration efforts with 3rd party vendors, including DRM and CDN providers.
 
-### Fabrix Systems (Senior Software Engineer)
+### Fabrix Systems (Senior Software Engineer, Jan 2012 - Oct 2014)
 
 - Platform management and automation for the industry's largest RS-DVR deployment (North America)
 - Parallel file systems benchmarking and optimization (PVFS/Hadoop/HDFS)
@@ -61,7 +62,7 @@ OTT/nDVR/CDN solutions for major Tier-1 MSOs worldwide (Asia, Oceania, North/Sou
 - Mission-critical, production System Administration and maintenance
 - Integration and Software development (C++/Shell Scripting)
 
-### The DSP Group
+### The DSP Group (Consultant)
 
 #### Technologies: Bash • Embedded linux • Arm • Gnu/linux • Oss (open Source software)
 - Designed and implemented an automated build system for cross platform deployment (x86/ARM)
