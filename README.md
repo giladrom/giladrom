@@ -18,7 +18,7 @@ I’m Gilad - A Senior Software Engineer and Startup Founder with over 15 years 
 ## Skills
 Fullstack (JavaScript/Typescript) • Embedded Systems • SQL (Postgres/MySQL/Prisma) • HTML/CSS • Systems architecture • Node.js • OSS (Linux/BSD) • Hardware
 
-## Resume ([PDF](https://github.com/giladrom/giladrom/files/9958089/Gilad.Rom.Resume.pdf))
+## Resume ([PDF](https://github.com/giladrom/giladrom/blob/56200ced2bed0b9e0458a6a1d1601090ac2a3c5b/Gilad%20Rom%20Resume.pdf)
 
 ### Bottleneck Labs (Founding Engineer, Dec 2022 - current)
 #### Technologies: NextJS/NodeJS • TypeScript • Tailwind • Prisma • tRPC • React • PostgreSQL
