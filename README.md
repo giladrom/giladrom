@@ -87,7 +87,7 @@ utilizing existing open-source products (Buildroot) and toolchains (GNU).
 - Endless fascination with the latest frameworks, APIs and technologies
 
 
-You can reach me at gilad.rom@gmail.com, [Twitter](twitter.com/giladrom), or [LinkedIn](https://www.linkedin.com/in/giladrom/).
+You can [send me an email](mailto:gilad.rom@gmail.com) or reach out on [LinkedIn](https://www.linkedin.com/in/giladrom/).
 
 <!---
 giladrom/giladrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
