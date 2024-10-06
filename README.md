@@ -5,10 +5,11 @@ I’m Gilad - A Senior Software Engineer and Startup Founder with over 15 years 
 - Take pride in ownership and going 0-1, iterating and making things happen
 - Self starter, extremely focused and able to quickly create a functional prototype
   
-## Notable things I've built
+## Some things I've built
 - [Huan](https://www.notion.so/gethuan/Huan-Memo-1e6ee1d17d72440cb98101fbef3badda)
 - [Fabrix Systems](https://www.nexttv.com/news/ericsson-folds-fabrix-systems-383793)
 - [Bottleneck Labs](https://bottleneck.com/)
+- [Tired Vegan](https://tiredvegan.com/)
 
 ## Press
 - [Nordic Semi](https://www.nordicsemi.com/News/2020/05/Huan-Tag-pet-wearable-helps-owners-keep-track-of-pets-via-crowd-location-system)
@@ -16,7 +17,7 @@ I’m Gilad - A Senior Software Engineer and Startup Founder with over 15 years 
 - [Argos & Artemis](https://argosandartemis.com/metaverse-web3-nft-crypto-dogs/)
 
 ## Skills
-Fullstack (JavaScript/Typescript) • Embedded Systems • SQL (Postgres/MySQL/Prisma) • HTML/CSS • Systems architecture • Node.js • OSS (Linux/BSD) • Hardware
+Fullstack (JavaScript/Typescript) • RAG Pipelines (LLM vectorizations, embeddings and retrieval) • Embedded Systems • SQL (Postgres/MySQL/Prisma) • HTML/CSS • Systems architecture • Node.js • OSS (Linux/BSD) • Hardware (BLE/Networking/Device Driver development)
 
 ## Resume ([PDF](https://github.com/giladrom/giladrom/blob/56200ced2bed0b9e0458a6a1d1601090ac2a3c5b/Gilad%20Rom%20Resume.pdf))
 
